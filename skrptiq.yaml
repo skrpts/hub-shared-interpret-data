@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "e28bbfc9-9136-448b-acd5-f6d204914f23"
+name: "interpret-data"
+display_name: "Interpret Research Data"
+description: "Identifies patterns, trends, and contradictions across research findings"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-interpret-data"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
