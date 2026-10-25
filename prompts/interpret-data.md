@@ -4,6 +4,11 @@ id: interpret-data
 title: "Interpret Research Data"
 description: "Identifies patterns, trends, and contradictions across research findings"
 tags: [Production, Academic, Research]
+context_params:
+  source:
+    label: "Research Findings"
+    description: "The research Findings supplied by the upstream step."
+    required: true
 
 metadata:
   output_format: markdown
@@ -20,7 +25,7 @@ You are a research analyst. Interpret the findings below, identifying patterns a
 
 ### Research Findings
 
-{{steps.previous.output}}
+{{step.context.source}}
 
 ### Instructions
 

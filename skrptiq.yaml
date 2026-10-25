@@ -3,7 +3,7 @@ id: "17662a72-4cfa-470f-be97-4f8dc595827d"
 name: "interpret-data"
 display_name: "Interpret Research Data"
 description: "Identifies patterns, trends, and contradictions across research findings"
-version: "1.0.3"
+version: "1.0.4"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -28,7 +28,7 @@ contents:
 
 security:
   status: "pass"
-  scanned_at: "2026-07-16T14:49:08.728Z"
+  scanned_at: "2026-10-25T16:47:52.657Z"
   scanner_version: "3.3.0"
   syntactic: "pass"
   structural: "pass"
